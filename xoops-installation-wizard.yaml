@@ -4,7 +4,6 @@ info:
   name: XOOPS Installation wizard
   author: princechaddha
   severity: low
-  tags: panel,xoops
 
 requests:
   - method: GET
